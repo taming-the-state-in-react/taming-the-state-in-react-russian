@@ -2,7 +2,7 @@
 
 [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
 
-Официальный репозиторий [Укрощение состояние в React (Taming the State in React)](https://www.robinwieruch.de/the-road-to-learn-react/). Если вы хотите оставить отзыв, вы можете сделать это на [Amazon](https://www.amazon.com/dp/B07CYKDQ5S?tag=21moves-20) или [Goodreads](https://www.goodreads.com/book/show/36599578-taming-the-state-in-react).
+Официальный репозиторий [Укрощение состояния в React (Taming the State in React)](https://www.robinwieruch.de/the-road-to-learn-react/). Если вы хотите оставить отзыв, вы можете сделать это на [Amazon](https://www.amazon.com/dp/B07CYKDQ5S?tag=21moves-20) или [Goodreads](https://www.goodreads.com/book/show/36599578-taming-the-state-in-react).
 
 ## Обновление, помощь и поддержка
 
